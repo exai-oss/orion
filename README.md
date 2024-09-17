@@ -1,5 +1,8 @@
 # Orion code base
 
+[![DOI](https://zenodo.org/badge/813337163.svg)](https://zenodo.org/doi/10.5281/zenodo.13770547)
+
+
 This package provides an interface to all of the Orion capabilities discussed in the manuscript entitled [Deep generative AI models analyzing circulating orphan non-coding RNAs enable accurate detection of early-stage non-small cell lung cancer
 ](https://doi.org/10.1101/2024.04.09.24304531)
 
